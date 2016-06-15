@@ -1,68 +1,96 @@
--8-6, 4-8-6, 5-8-6 ...
+3-8-6, 4-8-6, 5-8-6 ...
 
 ... E quanti megamegamegamega di RAM?
+内存到底有多少多少兆
 
 Ce l'hai il PC?
+你有电脑吗
 
 No!
+没有
 
 Non hai un PC?
+你没有电脑
 
 No!
+没有
 
 Io che ce l'ho, io sì che posso andare...
+我有电脑 所以我可以走上
 
 Su autostrade telematiche
+信息高速路
 
 Per il mondo navigare;
+游览全世界
 
 Dalle Alpi alle Piramidi
+从阿尔卑斯山到金字塔
 
 Su nel cielo e in fondo al mare.
+在天空飞翔 在大海遨游
 
 Basta un clic ed ho con me
+只要点击鼠标 我就可以和
 
 Brontosauri e scimpanzè,
+雷龙与猩猩作伴
 
 Ippopotami e mammut.
+还有河马与猛犸象
 
 Eccezionale!
+太神奇了
 
 E se poi voglio strafare,
+如果你想更进一步
 
 C'è lo spazio interstellare,
+我可以进行星际旅行
 
 In un attimo son lì, col mio piccì!
+用我的电脑 一眨眼我就到了
 
 Col mio piccì
+用我的电脑
 
 In un mondo cibernetico
+在数码世界
 
 Ed ipertecnologico,
+超科技的世界
 
 Tra strade telematiche
+穿行在信息高速路上是
 
 E ROM e RAM e CIP e
+只读存储器 随机存储器 芯片(???)
 
 megamegamegamegamegabytes
+还有很多很多很多兆字节
 
 ... oh, oh, oh, ohhhhhhh... boom!
+哦哦哦 轰
 
 È meglio Mario
 
 Ma... Mario
 
 Che certe cose le dimentica;
+有些事情你肯定忘了
 
 È meglio Mario
 
 Ma... Mario
 
 Che non è un genio in matematica,
+他不是一个数学天才
 
 Perché vuoi mettere una corsa in bicicletta
+因为你想来一场自行车比赛
 
 E poi tuffarsi in un gelato al cioccolato;
+然后沉浸在巧克力冰淇淋里
 
 È meglio Mario
 
@@ -73,8 +101,10 @@ sgommate
 Veramente esagerate
 
 E non lo sa cos'è un piccì.
+他不知道什么是电脑
 
 Non lo sa cos'è un piccì
+他不知道什么是电脑
 
 Ma balla il twist.
 
@@ -90,33 +120,48 @@ Per il mondo navigare,
 
 Dentro il vento come un'aquila
 
+
 Del duemila, un po' virtuale.
 
+
 Basta un clic e accanto a me,
+只要点击鼠标 就来到我身边
 
 Trovo quello che non c'è
+我找到了不存在的东西
 
 Che si è perso e non c'è più.
+那些已经消失的东西
 
 Eccezionale!
+太神奇了
 
 E se rombano i motori
+如果听到引擎的轰鸣
 
 Scendo in pista coi campioni;
+因为我和冠军来到了赛道
 
 Questa volta la Ferrari
+冠军是法拉利
 
 La Ferrari
+法拉利
 
 Tocca a me!
+这回轮到我了
 
 Viaggio dentro il corpo umano
+我游历在人类的身体
 
 In un fiore e in un vulcano
+在一朵花中 在火山口
 
 Per scoprire cosa c'è.
+因为我想知道里面有什么
 
 Che cosa c'è.
+里面有什么
 
 Che cosa c'è!
 
@@ -145,8 +190,10 @@ Ma... Mario
 Che non è un genio in matematica.
 
 Perché vuoi mettere giocare, fare sport
+因为你想玩游戏 做运动
 
 E poi rincorrersi su un campo di pallone;
+在广场上踢足球
 
 È meglio Mario che è veloce come un treno,
 
