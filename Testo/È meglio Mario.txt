@@ -16,7 +16,7 @@ No!
 没有
 
 Io che ce l'ho, io sì che posso andare...
-我有电脑 所以我可以走上
+我有电脑 所以我可以通过
 
 Su autostrade telematiche
 信息高速路
@@ -46,7 +46,7 @@ E se poi voglio strafare,
 如果你想更进一步
 
 C'è lo spazio interstellare,
-我可以进行星际旅行
+我还可以进行星际旅行
 
 In un attimo son lì, col mio piccì!
 用我的电脑 一眨眼我就到了
@@ -55,13 +55,13 @@ Col mio piccì
 用我的电脑
 
 In un mondo cibernetico
-在数码世界
+在数码世界里
 
 Ed ipertecnologico,
-超科技的世界
+在超科技的世界里
 
 Tra strade telematiche
-穿行在信息高速路上是
+穿行在信息高速路上的是
 
 E ROM e RAM e CIP e
 只读存储器 随机存储器 芯片(???)
@@ -111,11 +111,12 @@ Non lo sa cos'è un piccì
 你不知道什么是电脑
 
 Ma balla il twist.
-
+你知道怎么跳扭扭舞
 
 Uaciu uari uari - Uaciu uari uari
 
 Lui balla il twist!
+他知道怎么跳扭扭舞
 
 Uaciu uari uari - Uaciu uari uari.
 
